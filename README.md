@@ -10,3 +10,5 @@ Environment:
 - Scikit-learn 0.18.2
 - numpy
 
+Dataset:
+- Chinese Documents for classification: http://www.datatang.com/datares/go.aspx?dataid=617249
