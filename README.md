@@ -11,4 +11,6 @@ Environment:
 - numpy
 
 Dataset:
-- Chinese Documents for classification: http://www.datatang.com/datares/go.aspx?dataid=617249
+- Fudan Chinese Documents for classification
+ - training data: http://download.csdn.net/detail/github_36326955/9747927
+ - testing data: http://download.csdn.net/detail/github_36326955/9747929
